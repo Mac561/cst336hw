@@ -9,11 +9,11 @@
             <!--start at hw-->
             <h1>hw</h1>
             <!--look for hw1-->
-            <a href="/hw/Homework1/index.html"></a>
+            <a href="/hw/Homework1/index.html"> Homework1</a>
             
             <h1>labs</h1>
-            <a href="/labs/personalportfolio/index.html"></a>
+            <a href="/labs/personalportfolio/index.html">labs</a>
         </div>
-hey how are you today
+
     </body>
 </html>
