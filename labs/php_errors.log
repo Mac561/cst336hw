@@ -1,3 +1,51 @@
 [18-Feb-2018 06:35:24 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/labs/slot_machine/index.php on line 10
 [18-Feb-2018 06:35:58 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/labs/slot_machine/index.php on line 10
 [18-Feb-2018 06:35:59 UTC] PHP Fatal error:  Call to undefined function displaySymbol() in /home/ubuntu/workspace/labs/slot_machine/index.php on line 10
+[19-Feb-2018 19:51:06 UTC] PHP Parse error:  syntax error, unexpected 'displaySymbol' (T_STRING) in /home/ubuntu/workspace/labs/777/index.php on line 16
+[19-Feb-2018 19:52:58 UTC] PHP Fatal error:  Function name must be a string in /home/ubuntu/workspace/labs/777/index.php on line 10
+[19-Feb-2018 19:53:50 UTC] PHP Fatal error:  Call to undefined function displaySymbo2() in /home/ubuntu/workspace/labs/777/index.php on line 12
+[19-Feb-2018 19:55:15 UTC] PHP Fatal error:  Call to undefined function displaySymbo2() in /home/ubuntu/workspace/labs/777/index.php on line 12
+[19-Feb-2018 19:55:16 UTC] PHP Fatal error:  Call to undefined function displaySymbo2() in /home/ubuntu/workspace/labs/777/index.php on line 12
+[19-Feb-2018 19:55:18 UTC] PHP Fatal error:  Call to undefined function displaySymbo2() in /home/ubuntu/workspace/labs/777/index.php on line 12
+[19-Feb-2018 19:55:19 UTC] PHP Fatal error:  Call to undefined function displaySymbo2() in /home/ubuntu/workspace/labs/777/index.php on line 12
+[19-Feb-2018 19:55:19 UTC] PHP Fatal error:  Call to undefined function displaySymbo2() in /home/ubuntu/workspace/labs/777/index.php on line 12
+[19-Feb-2018 19:55:20 UTC] PHP Fatal error:  Call to undefined function displaySymbo2() in /home/ubuntu/workspace/labs/777/index.php on line 12
+[19-Feb-2018 20:33:59 UTC] PHP Parse error:  syntax error, unexpected 'img' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 25
+[19-Feb-2018 20:56:00 UTC] PHP Parse error:  syntax error, unexpected '" ' width='70'>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 32
+[19-Feb-2018 20:56:56 UTC] PHP Parse error:  syntax error, unexpected '"' width='70' >"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 32
+[19-Feb-2018 20:56:57 UTC] PHP Parse error:  syntax error, unexpected '"' width='70' >"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 32
+[19-Feb-2018 20:56:58 UTC] PHP Parse error:  syntax error, unexpected '"' width='70' >"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 32
+[19-Feb-2018 20:56:59 UTC] PHP Parse error:  syntax error, unexpected '"' width='70' >"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 32
+[19-Feb-2018 20:58:23 UTC] PHP Parse error:  syntax error, unexpected '"' width='70' >"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 32
+[19-Feb-2018 20:58:23 UTC] PHP Parse error:  syntax error, unexpected '"' width='70' >"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 32
+[19-Feb-2018 21:21:51 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 39
+[19-Feb-2018 21:22:54 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 39
+[19-Feb-2018 21:26:38 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 39
+[19-Feb-2018 21:26:39 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 39
+[19-Feb-2018 21:29:06 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 42
+[19-Feb-2018 21:29:34 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 42
+[19-Feb-2018 21:29:35 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 42
+[19-Feb-2018 21:32:24 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 42
+[19-Feb-2018 21:36:10 UTC] PHP Parse error:  syntax error, unexpected '{' in /home/ubuntu/workspace/labs/777/index.php on line 42
+[19-Feb-2018 21:41:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 56
+[19-Feb-2018 21:41:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 56
+[19-Feb-2018 21:41:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 56
+[19-Feb-2018 21:41:57 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/ubuntu/workspace/labs/777/index.php on line 56
+[19-Feb-2018 21:45:54 UTC] PHP Fatal error:  Cannot break/continue 1 level in /home/ubuntu/workspace/labs/777/index.php on line 49
+[19-Feb-2018 21:57:40 UTC] PHP Warning:  include(inc/function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/labs/777/index.php on line 9
+[19-Feb-2018 21:57:40 UTC] PHP Warning:  include(): Failed opening 'inc/function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/labs/777/index.php on line 9
+[19-Feb-2018 21:57:58 UTC] PHP Warning:  include(inc/function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/labs/777/index.php on line 9
+[19-Feb-2018 21:57:59 UTC] PHP Warning:  include(): Failed opening 'inc/function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/labs/777/index.php on line 9
+[19-Feb-2018 21:57:59 UTC] PHP Warning:  include(inc/function.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/labs/777/index.php on line 9
+[19-Feb-2018 21:57:59 UTC] PHP Warning:  include(): Failed opening 'inc/function.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/labs/777/index.php on line 9
+[19-Feb-2018 22:12:47 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/labs/777/index.php on line 11
+[19-Feb-2018 22:13:25 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/labs/777/index.php on line 11
+[19-Feb-2018 22:13:25 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/labs/777/index.php on line 11
+[19-Feb-2018 22:13:44 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/labs/777/index.php on line 11
+[19-Feb-2018 23:46:56 UTC] PHP Parse error:  syntax error, unexpected 'jps' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 44
+[19-Feb-2018 23:48:11 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 44
+[19-Feb-2018 23:48:12 UTC] PHP Parse error:  syntax error, unexpected 'true' (T_STRING), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 44
+[19-Feb-2018 23:48:52 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 45
+[19-Feb-2018 23:48:53 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 45
+[19-Feb-2018 23:48:54 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 45
+[20-Feb-2018 00:20:20 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 49
