@@ -40,6 +40,7 @@
                 switch($randomValue1)
                 {
                     case 0:$totalPoints = 1000;
+                    /*this is going to display the sound when ever the player get all three sysmbols in a row*/
                            echo "<h1>jackpot!</h1>";
                            echo "<audio controls autoplay>
                                  <source src='jps/bcs.mp3' type='audio/ogg'>
