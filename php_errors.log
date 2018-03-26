@@ -1,0 +1,2 @@
+[28-Feb-2018 21:46:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/ex/logout.php on line 8
+[01-Mar-2018 10:21:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/ex/logout.php on line 8
