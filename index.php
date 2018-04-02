@@ -15,7 +15,7 @@
             <h1>labs</h1>
             <a href="/labs/personalportfolio/index.html">Personal Portfolio</a> <br> </br>
             <a href="/labs/777/index.php"> Slot Machine</a> <br> </br>
-            <a href="/labs/Lab3/function.php">Silver jack</a>
+            <a href="/labs/Lab3/index.php">Silver jack</a>
         </div>
 
     </body>

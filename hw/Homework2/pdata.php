@@ -20,6 +20,7 @@ echo " Welcome ".$session["firstName"]. " " .$session["lastName"]  ;
 <html>
     <head>
         <title>pdata</title>
+            <link href="css/styles.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
          <a href="logout.php">Logout</a>
