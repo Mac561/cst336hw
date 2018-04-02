@@ -49,3 +49,23 @@
 [19-Feb-2018 23:48:53 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 45
 [19-Feb-2018 23:48:54 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 45
 [20-Feb-2018 00:20:20 UTC] PHP Parse error:  syntax error, unexpected 'break' (T_BREAK), expecting ',' or ';' in /home/ubuntu/workspace/labs/777/inc/functions.php on line 49
+[02-Apr-2018 20:28:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'Lab4' in /home/ubuntu/workspace/labs/Lab4/DBConnection.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab4/DBConnection.php(17): PDO->__construct('mysql:host=0.0....', 'cooper96', '')
+#1 /home/ubuntu/workspace/labs/Lab4/index.php(5): getDataBaseConnection('Lab4')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab4/DBConnection.php on line 17
+[02-Apr-2018 20:28:41 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'Lab4' in /home/ubuntu/workspace/labs/Lab4/DBConnection.php:17
+Stack trace:
+#0 /home/ubuntu/workspace/labs/Lab4/DBConnection.php(17): PDO->__construct('mysql:host=0.0....', 'cooper96', '')
+#1 /home/ubuntu/workspace/labs/Lab4/index.php(5): getDataBaseConnection('Lab4')
+#2 {main}
+  thrown in /home/ubuntu/workspace/labs/Lab4/DBConnection.php on line 17
+[02-Apr-2018 20:33:23 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[02-Apr-2018 21:01:15 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[02-Apr-2018 21:24:49 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[02-Apr-2018 21:26:02 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[02-Apr-2018 21:29:08 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[02-Apr-2018 21:30:46 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[02-Apr-2018 21:30:47 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[02-Apr-2018 21:34:12 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
