@@ -45,6 +45,8 @@
 
 <head>
     <title>index</title>
+    <link href="css/styles.css" rel="stylesheet" type="text/css"/>
+      <a href="index.html" class="w3-bar-item w3-button">HOME</a>
 </head>
 
 <body>

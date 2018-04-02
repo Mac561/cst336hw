@@ -1,2 +1,62 @@
 [28-Feb-2018 21:46:55 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/ex/logout.php on line 8
 [01-Mar-2018 10:21:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ubuntu/workspace/ex/logout.php on line 8
+[26-Mar-2018 17:29:06 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[26-Mar-2018 17:29:06 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[26-Mar-2018 17:29:06 UTC] PHP Notice:  Undefined index: message in /home/ubuntu/workspace/GroupProject/index.php on line 16
+[26-Mar-2018 17:29:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'Company' in /home/ubuntu/workspace/GroupProject/functions.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/GroupProject/functions.php(21): PDO->__construct('mysql:host=0.0....', 'cooper96', '')
+#1 /home/ubuntu/workspace/GroupProject/paystub.php(3): include('/home/ubuntu/wo...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/GroupProject/functions.php on line 21
+[26-Mar-2018 17:29:48 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[26-Mar-2018 17:29:48 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[26-Mar-2018 17:29:48 UTC] PHP Notice:  Undefined index: message in /home/ubuntu/workspace/GroupProject/index.php on line 16
+[26-Mar-2018 17:49:04 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[26-Mar-2018 17:49:04 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[26-Mar-2018 17:49:04 UTC] PHP Notice:  Undefined index: message in /home/ubuntu/workspace/GroupProject/index.php on line 16
+[26-Mar-2018 17:49:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'Company' in /home/ubuntu/workspace/GroupProject/functions.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/GroupProject/functions.php(21): PDO->__construct('mysql:host=0.0....', 'cooper96', '')
+#1 /home/ubuntu/workspace/GroupProject/paystub.php(3): include('/home/ubuntu/wo...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/GroupProject/functions.php on line 21
+[26-Mar-2018 17:55:23 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[26-Mar-2018 17:55:23 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[26-Mar-2018 17:55:23 UTC] PHP Notice:  Undefined index: message in /home/ubuntu/workspace/GroupProject/index.php on line 16
+[27-Mar-2018 01:21:27 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[27-Mar-2018 01:21:27 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[27-Mar-2018 01:21:27 UTC] PHP Notice:  Undefined index: message in /home/ubuntu/workspace/GroupProject/index.php on line 16
+[27-Mar-2018 01:21:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'Company' in /home/ubuntu/workspace/GroupProject/functions.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/GroupProject/functions.php(21): PDO->__construct('mysql:host=0.0....', 'cooper96', '')
+#1 /home/ubuntu/workspace/GroupProject/paystub.php(3): include('/home/ubuntu/wo...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/GroupProject/functions.php on line 21
+[27-Mar-2018 01:21:56 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[27-Mar-2018 01:21:56 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[27-Mar-2018 01:21:56 UTC] PHP Notice:  Undefined index: message in /home/ubuntu/workspace/GroupProject/index.php on line 16
+[27-Mar-2018 01:22:08 UTC] PHP Warning:  include(inc/functions.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[27-Mar-2018 01:22:08 UTC] PHP Warning:  include(): Failed opening 'inc/functions.php' for inclusion (include_path='.:/usr/share/php') in /home/ubuntu/workspace/GroupProject/index.php on line 2
+[27-Mar-2018 01:22:08 UTC] PHP Notice:  Undefined index: message in /home/ubuntu/workspace/GroupProject/index.php on line 16
+[27-Mar-2018 01:22:11 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'Company' in /home/ubuntu/workspace/GroupProject/functions.php:21
+Stack trace:
+#0 /home/ubuntu/workspace/GroupProject/functions.php(21): PDO->__construct('mysql:host=0.0....', 'cooper96', '')
+#1 /home/ubuntu/workspace/GroupProject/paystub.php(3): include('/home/ubuntu/wo...')
+#2 {main}
+  thrown in /home/ubuntu/workspace/GroupProject/functions.php on line 21
+[27-Mar-2018 04:38:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cooper96'@'localhost' (using password: YES) in /home/ubuntu/workspace/GroupProject/phpmyadmin.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/GroupProject/phpmyadmin.php(9): PDO->__construct('mysql:host=loca...', 'cooper96', ' ')
+#1 {main}
+  thrown in /home/ubuntu/workspace/GroupProject/phpmyadmin.php on line 9
+[27-Mar-2018 04:38:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cooper96'@'localhost' (using password: YES) in /home/ubuntu/workspace/GroupProject/phpmyadmin.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/GroupProject/phpmyadmin.php(9): PDO->__construct('mysql:host=loca...', 'cooper96', ' ')
+#1 {main}
+  thrown in /home/ubuntu/workspace/GroupProject/phpmyadmin.php on line 9
+[27-Mar-2018 04:38:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'cooper96'@'localhost' (using password: YES) in /home/ubuntu/workspace/GroupProject/phpmyadmin.php:9
+Stack trace:
+#0 /home/ubuntu/workspace/GroupProject/phpmyadmin.php(9): PDO->__construct('mysql:host=loca...', 'cooper96', ' ')
+#1 {main}
+  thrown in /home/ubuntu/workspace/GroupProject/phpmyadmin.php on line 9
