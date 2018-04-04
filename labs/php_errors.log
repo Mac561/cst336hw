@@ -69,3 +69,5 @@ Stack trace:
 [02-Apr-2018 21:30:46 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
 [02-Apr-2018 21:30:47 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
 [02-Apr-2018 21:34:12 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[02-Apr-2018 22:10:33 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[04-Apr-2018 15:55:59 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
