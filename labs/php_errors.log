@@ -71,3 +71,7 @@ Stack trace:
 [02-Apr-2018 21:34:12 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
 [02-Apr-2018 22:10:33 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
 [04-Apr-2018 15:55:59 UTC] PHP Notice:  Undefined variable: namedParameters in /home/ubuntu/workspace/labs/Lab4/index.php on line 71
+[04-May-2018 09:34:14 UTC] PHP Notice:  Undefined variable: totalPoints in /home/ubuntu/workspace/labs/777/inc/functions.php on line 64
+[04-May-2018 09:34:30 UTC] PHP Notice:  Undefined variable: totalPoints in /home/ubuntu/workspace/labs/777/inc/functions.php on line 64
+[04-May-2018 09:34:33 UTC] PHP Notice:  Undefined variable: totalPoints in /home/ubuntu/workspace/labs/777/inc/functions.php on line 64
+[05-May-2018 06:49:28 UTC] PHP Notice:  Undefined variable: totalPoints in /home/ubuntu/workspace/labs/777/inc/functions.php on line 64

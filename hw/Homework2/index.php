@@ -60,10 +60,10 @@
                 <option value="Arizona">Arizona</option>
                 <option value="California">California</option>
                 <option value="Illinois">Illinois</option>
-                <option value="NigeriaG">Nigeria</option>
+                <option value="Nigeria">Nigeria</option>
                 <option value="Liberia">Liberia</option>
             </select>
-            <br /><br /> Highest Degree Obtained: <br>
+            <br/> <br /> Highest Degree Obtained: <br>
             <input type="radio"  id="item1"  name="degreeChoices"  value="High School" >
             <label for="item1">High School Diploma</label> <br>
             <input type="radio"  id="item2"  name="degreeChoices" value="College">
